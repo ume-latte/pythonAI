@@ -95,7 +95,7 @@ cd('coco/PythonAPI') #命令將當前工作目錄coco儲存PythonAPI子目錄
 
 
 
-* 指定使用的參數執行trainval_net.py腳本，進行深度學習模型的
+* 指定使用的參數執行trainval_net.py腳本，進行深度學習模型
 ``` python
  cd('/content/faster-rcnn.pytorch')
 
